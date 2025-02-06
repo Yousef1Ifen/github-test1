@@ -3,7 +3,6 @@
 <h1>Hello {{name}}, welcomeon home page</h1>
 <div class="table-container">
 <table border ="1">
-    adfadsfa
     <tr>
         <td>
             ID
