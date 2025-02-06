@@ -31,6 +31,7 @@ export default {
     font-size: 25px;
     text-decoration: none;
     margin-right: 5px;
+    margin -top: 5px
 }
 .nav a:hover {
     background-color: rgb(252, 252, 255);
